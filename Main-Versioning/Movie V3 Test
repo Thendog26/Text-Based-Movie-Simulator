@@ -1,0 +1,27 @@
+Prompt			Input			Output
+Name			Nathan			*passes*
+Age				dhflklfkjsadf	*filters out and re-requests*
+Age				-1				*filters out and re-requests*
+Age				12				*passes*
+MainMenu		1				ticket menu
+lookatmovies	4				shown movie desciption options
+ticketshop		1				movie desciptions show
+enter			q*enter*		goes back to ticket menu
+ticketshop		10				*filters out and re-requests*
+ticketshop		-10				*filters out and re-requests*
+ticketshop		1dweyriy		*filters out and re-requests*
+ticketshop		1				too young filter(can't buy)
+enter			q*enter*		goes back to ticket menu
+ticketshop		3				*adds ticket and deduces money*
+ticketshop		5				back to menu
+MainMenu		hlkashdla		*filters out and re-requests*
+MainMenu		2				candy bar menu
+CandyBar		2				*buys item and deduces money*
+CandyBar		4				*buys item and deduces money*
+CandyBar		6				*buys item and deduces money*
+CandyBar		20				*filters out and re-requests*
+CandyBar		7				*returns to main menu*
+MainMenu		3				*goes to ticket menu*
+watchmoviemenu	3				*goes to watch and quits*
+
+							
