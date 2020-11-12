@@ -1,1 +1,2 @@
 # Text-Based-Movie-Simulator
+This project is a text-based movie simulator I made in my first year of uni. You boot up the program and based on your name and age,  it determines how much money you're given, what age restrictions you have, and your hunger rating. From there you can purchase movies, buy food, etc. which then changes dialogue as you enter and interact with the movie sequence. Hope you enjoy! :) 
